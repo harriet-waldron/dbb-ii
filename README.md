@@ -1,25 +1,30 @@
-#Bean Brawl
--
-	-This is the final project for Enspiral Dev Academy.
-	-I was in a team of seven, and as the final part of this course, we had a week to complete a project of our choice. 
+## Bean Brawl ##
+
+This is the final project for Enspiral Dev Academy.
+I was in a team of seven, and as the final part of this course, we had a week to complete a project of our choice. 
 We decided to branch out into technology that hadn't been a part of the curriculum, and make a game using Phaser. The game is a 'Super Smash Bros' style fighting game that uses 'Paper, Scissors, Rock' style interactions to determine a winner. 
--
-	-My part in this project, after participating in the initial Phaser reasearch and development, was to create the background art for the maps and start/end pages, tile maps, character sprites and animations. It was a bit strange that for the culmination of a coding course, I spent most of my time making art - but it was actually a clear way to see how much I had learnt about how to pick up unfamiliar technologies, approach entirely new tasks, and be adaptable in a fast paced learning environment. I had worked with Photoshop only once in the past and found it clunky and difficult, but after going through EDA and learning so much about how to learn and teach myself new things - I found PS suddenly enjoyable and easy to pick up.
-	-My Agile roles in the group were Scrum Master and Vibes Lead, meaning I was tasked with monitoring each person's wellbeing in the group dynamic, and organising and leading the daily meetings. The text below shows the wellbeing plan and schedule that I wrote up.
-	-This initial plan served the group really well throughout the whole week. We stuck to the stand up schedule, which allowed us all to stay updated on the project, manage individual workloads, and address issues quickly. The morning check ins were non tech related, so we could all know how everyone was doing and their capacity on any given day, and the retrospectives every day were a great time to work on any hitches in group dynamic and workflow, to be able to iterate on the way we were working.
-	-I spent a lot of the week managing communication between others, checking in with progress and organising personal and group discussions. I learnt a lot in this process about how to manage others in a way that achieves interpersonal growth while still managing my own workload.
-	-I recieved feedback from the group that I did well in these roles, that my work was integral to helping strong personalities coexist, and that I am a natural leader driven by compassion. 
--
-	-I really enjoyed creating this project. At this stage, if you want to play it, it is controller only. The last deployed version also has a bug in the ball to ball interaction where player 1 wins by default. 
-	-Deployed but slighly unfinished version:
+
+My part in this project, after participating in the initial Phaser reasearch and development, was to create the background art for the maps and start/end pages, tile maps, character sprites and animations. It was a bit strange that for the culmination of a coding course, I spent most of my time making art - but it was actually a clear way to see how much I had learnt about how to pick up unfamiliar technologies, approach entirely new tasks, and be adaptable in a fast paced learning environment. I had worked with Photoshop only once in the past and found it clunky and difficult, but after going through EDA and learning so much about how to learn and teach myself new things - I found PS suddenly enjoyable and easy to pick up.
+
+My Agile roles in the group were Scrum Master and Vibes Lead, meaning I was tasked with monitoring each person's wellbeing in the group dynamic, and organising and leading the daily meetings. The text below shows the wellbeing plan and schedule that I wrote up.
+
+This initial plan served the group really well throughout the whole week. We stuck to the stand up schedule, which allowed us all to stay updated on the project, manage individual workloads, and address issues quickly. The morning check ins were non tech related, so we could all know how everyone was doing and their capacity on any given day, and the retrospectives every day were a great time to work on any hitches in group dynamic and workflow, to be able to iterate on the way we were working.
+
+I spent a lot of the week managing communication between others, checking in with progress and organising personal and group discussions. I learnt a lot in this process about how to manage others in a way that achieves interpersonal growth while still managing my own workload.
+
+I recieved feedback from the group that I did well in these roles, that my work was integral to helping strong personalities coexist, and that I am a natural leader driven by compassion. 
+
+I really enjoyed creating this project. At this stage, if you want to play it, it is controller only. The last deployed version also has a bug in the ball to ball interaction where player 1 wins by default. 
+
+Deployed but slighly unfinished version:
 https://dbb-test-486fc.web.app/
--
-	-A version refactored by one of my teaammates, Ben, that allows for keyboard play.
+
+A version refactored by one of my teaammates, Ben, that allows for keyboard play.
 http://beanbrawl.herokuapp.com/
--
-	-I am planning on also doing a refactored version with keyboard support.
--
-	-Thank you for reading, happy playing!
+
+I am planning on also doing a refactored version with keyboard support.
+
+Thank you for reading, happy playing!
 
 ❤️📗🌏
 
